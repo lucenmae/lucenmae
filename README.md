@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋+I'm+Lucy;A+Passionate+Developer;Let's+Create+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=I+need+sleep;Maybe+just+5+more+minutes;Code+or+nap...;Dreaming+of+coffee" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=2F81F7">
-</div>
 
 ## 🚀 About Me
 - 🔭 I'm currently working on Meeples-Landing.
 - 🌱 I'm currently learning Angular, Nodejs, and UX design process.
-- 👯 I'm looking to collaborate on interesting projects
 - 📫 How to reach me: lucymaetan@gmail.com
 
 ## 🛠️ Tech Stack
@@ -31,7 +27,7 @@
 ## 🎵 Currently Vibing To
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&cover_image=true&theme=default&show_offline=true&background_color=2b2b2b&interchange=true&bar_color=dd301d&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&cover_image=true&theme=novatorem&show_offline=true&background_color=2b2b2b&interchange=true&bar_color=dd301d&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
 
