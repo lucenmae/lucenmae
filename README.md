@@ -8,12 +8,12 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **Meeples-Landing**
+- 🔭 Currently building Meeples-Landing, a site for passionate board game fans
 - 🌱 I'm currently learning **Angular**, **Node.js**, and **UX Design**
 - 💡 I love creating user-friendly web applications
-- 🎯 2024 Goals: Focus on developing my web development skills
-- 📫 Reach me at: **lucymaetan@gmail.com**
-- ⚡ Fun fact: I debug with milk or coffee ☕
+- 🎯 2025 Goals: Master front-end frameworks and enhance my back-end knowledge
+- 📫 Let’s connect! Email me at: **lucymaetan@gmail.com**
+- ⚡ Fun fact: My debugging fuel? Always milk or coffee ☕
 
 ## 🛠️ Tech Stack
 <div align="center">
