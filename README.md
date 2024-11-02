@@ -18,12 +18,7 @@
 ## 🛠️ Tech Stack
 <div align="center">
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,pug" />
-    <p>
-    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,pug,js,ts,angular" />
   
   <h3>Backend & Database</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" />
