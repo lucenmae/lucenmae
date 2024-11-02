@@ -27,7 +27,7 @@
 ## 🎵 Currently Vibing To
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&cover_image=true&theme=novatorem&show_offline=true&background_color=2b2b2b&interchange=true&bar_color=dd301d&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=2b2b2b&interchange=true&bar_color=dd301d&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
 
