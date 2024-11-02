@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=I+need+sleep;Maybe+just+5+more+minutes;Code+or+nap...;Dreaming+of+coffee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=I+need+sleep;Maybe+just+5+more+minutes;Code+or+nap?+...;Dreaming+of+coffee+zZz" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -28,9 +28,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucenmae&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucenmae&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenmae&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <p>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=lucenmae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=lucenmae&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </p>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenmae&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
