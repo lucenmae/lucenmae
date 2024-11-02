@@ -2,26 +2,40 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=I+need+sleep;Maybe+just+5+more+minutes;Code+or+nap...;Dreaming+of+coffee" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucenmae&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views" />
+</div>
 
 ## 🚀 About Me
-- 🔭 I'm currently working on Meeples-Landing.
-- 🌱 I'm currently learning Angular, Nodejs, and UX design process.
-- 📫 How to reach me: lucymaetan@gmail.com
+- 🔭 I'm currently working on **Meeples-Landing**
+- 🌱 I'm currently learning **Angular**, **Node.js**, and **UX Design**
+- 💡 I love creating user-friendly web applications
+- 🎯 2024 Goals: Contribute more to Open Source projects
+- 📫 Reach me at: **lucymaetan@gmail.com**
+- ⚡ Fun fact: I debug with milk or coffee ☕
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,pug,js,angular,ts,nodejs,mongodb,git,figma,photoshop,illustrator" />
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,pug,js,ts,angular" />
+  
+  <h3>Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" />
+  
+  <h3>Tools & Design</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator" />
 </div>
 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucenmae&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucenmae&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenmae&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucenmae&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lucenmae&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" />
 </div>
 
 ## 🎵 Currently Vibing To
@@ -39,7 +53,12 @@
   <a href="https://facebook.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+  <a href="https://dev.to/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
 </div>
+
+
 
 ---
 <div align="center">
