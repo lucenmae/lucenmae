@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on **Meeples-Landing**
 - 🌱 I'm currently learning **Angular**, **Node.js**, and **UX Design**
 - 💡 I love creating user-friendly web applications
-- 🎯 2024 Goals: Contribute more to Open Source projects
+- 🎯 2024 Goals: Focus on developing my web development skills
 - 📫 Reach me at: **lucymaetan@gmail.com**
 - ⚡ Fun fact: I debug with milk or coffee ☕
 
