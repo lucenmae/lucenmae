@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,nodejs,git,figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,pug,js,angular,ts,nodejs,mongodb,git,figma,photoshop,illustrator" />
 </div>
 
 ## 📊 GitHub Stats
