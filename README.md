@@ -13,7 +13,6 @@
 - 💡 I love creating user-friendly web applications
 - 🎯 2025 Goals: Master front-end frameworks and enhance my back-end knowledge
 - 📫 Let’s connect! Email me at: **lucymaetan@gmail.com**
-- ⚡ Fun fact: My debugging fuel? Always milk or coffee ☕
 
 ## 🛠️ Tech Stack
 <div align="center">
