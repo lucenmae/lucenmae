@@ -7,11 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=lucenmae&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## 🚀 About Me
-- 🔭 Currently building Meeples-Landing, a site for passionate board game fans
+- 🔭 Currently building Meeples-Landing, a site for a school organization
 - 🌱 I'm currently learning **Angular**, **Node.js**, and **UX Design**
 - 💡 I love creating user-friendly web applications
-- 🎯 2025 Goals: Master front-end frameworks and enhance my back-end knowledge
+- 🎯 2025 Goals: Create more hobby projects
 - 📫 Let’s connect! Email me at: **lucymaetan@gmail.com**
 
 ## 🛠️ Tech Stack
@@ -26,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator" />
 </div>
 
-## 📊 GitHub Stats
+## 📊 Stats
 <div align="center">
   <p>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=lucenmae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -35,7 +43,7 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenmae&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucenmae&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" />
 </div>
@@ -55,15 +63,4 @@
   <a href="https://facebook.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-</div>
-
-
-
----
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
