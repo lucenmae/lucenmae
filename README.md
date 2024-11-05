@@ -1,3 +1,5 @@
+![header](./images/header.png)
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=I+need+sleep+😴;Maybe+just+5+more+minutes+⏰;Code+or+nap...?+🤔;Dreaming+of+coffee+☕💤" alt="Typing SVG" />
 </div>
@@ -6,8 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=lucenmae&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views" />
 </div>
 
-
 ## 🚀 About Me
+
 - 🔭 Currently building Meeples-Landing, a site for a school organization
 - 🌱 I'm currently learning **Angular**, **Node.js**, and **UX Design**
 - 💡 I love creating user-friendly web applications
@@ -36,6 +38,7 @@
 </div>
 
 ## 📊 Stats
+
 <div align="center">
   <p>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=lucenmae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -45,6 +48,7 @@
 </div>
 
 ## 🏆Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucenmae&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" />
 </div>
