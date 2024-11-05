@@ -7,13 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=lucenmae&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ## 🚀 About Me
 - 🔭 Currently building Meeples-Landing, a site for a school organization
@@ -21,6 +14,14 @@
 - 💡 I love creating user-friendly web applications
 - 🎯 2025 Goals: Create more hobby projects
 - 📫 Let’s connect! Email me at: **lucymaetan@gmail.com**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ## 🛠️ Tech Stack
 <div align="center">
