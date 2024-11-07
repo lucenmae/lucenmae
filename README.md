@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-<table style="border-collapse: collapse; border: 1px solid #BD1212;">
+<table align="center">
 <tr>
-<td width="70%" style="border: none; padding: 20px;">
+<td width="70%" align="left">
 
 🔭 Currently building Meeples-Landing, a site for a school organization
 
@@ -25,7 +25,7 @@
 📫 Let's connect! Email me at: **lucymaetan@gmail.com**
 
 </td>
-<td width="30%" style="border: none; padding: 20px;">
+<td width="30%" align="center">
 <a href="https://app.daily.dev/lucenmae">
   <img src="./devcard.png" width="250" alt="Lucy's Dev Card"/>
 </a>
