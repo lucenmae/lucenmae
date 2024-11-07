@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=lucenmae&label=Profile%20Views&color=BD1212&style=flat" alt="Profile Views" />
 </div>
 
+<br><br>
 
 <div align="center">
   <a href="https://linkedin.com/in/lucymaetan" target="_blank">
