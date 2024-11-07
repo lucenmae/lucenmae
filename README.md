@@ -10,8 +10,9 @@
 
 ## 🚀 About Me
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem;">
-  <div style="flex: 7; text-align: left;">
+<table border="0" style="border: none;">
+<tr style="border: none;">
+<td width="70%" style="border: none;">
 
 🔭 Currently building Meeples-Landing, a site for a school organization
 
@@ -23,13 +24,14 @@
 
 📫 Let's connect! Email me at: **lucymaetan@gmail.com**
 
-  </div>
-  <div style="flex: 3;">
-    <a href="https://app.daily.dev/lucenmae">
-      <img src="./devcard.png" width="250" alt="Lucy's Dev Card"/>
-    </a>
-  </div>
-</div>
+</td>
+<td width="30%" style="border: none;">
+<a href="https://app.daily.dev/lucenmae">
+  <img src="./devcard.png" width="250" alt="Lucy's Dev Card"/>
+</a>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
