@@ -16,6 +16,8 @@
 - 🎯 2025 Goals: Create more hobby projects
 - 📫 Let’s connect! Email me at: **lucymaetan@gmail.com**
 
+<a href="https://app.daily.dev/lucenmae"><img src="./devcard.png" width="356" alt="Lucy's Dev Card"/></a>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake-dark.svg" />
