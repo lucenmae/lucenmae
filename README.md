@@ -10,28 +10,23 @@
 
 ## 🚀 About Me
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1;">
-    - 🔭 Currently building Meeples-Landing, a site for a school organization<br>
-    - 🌱 I'm currently learning **Angular**, **Node.js**, and **UX Design**<br>
-    - 💡 I love creating user-friendly web applications<br>
-    - 🎯 2025 Goals: Create more hobby projects<br>
-    - 📫 Let’s connect! Email me at: **lucymaetan@gmail.com**
-  </div>
+<table>
+  <tr>
+    <td align="left" valign="top">
+      - 🔭 Currently building Meeples-Landing, a site for a school organization<br>
+      - 🌱 I'm currently learning **Angular**, **Node.js**, and **UX Design**<br>
+      - 💡 I love creating user-friendly web applications<br>
+      - 🎯 2025 Goals: Create more hobby projects<br>
+      - 📫 Let’s connect! Email me at: **lucymaetan@gmail.com**
+    </td>
+    <td align="right" valign="top">
+      <a href="https://app.daily.dev/lucenmae">
+        <img src="./devcard.png" width="356" alt="Lucy's Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://app.daily.dev/lucenmae">
-    <img src="./devcard.png" width="356" alt="Lucy's Dev Card"/>
-  </a>
-</div>
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/lucenmae/lucenmae/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ## 🛠️ Tech Stack
 
