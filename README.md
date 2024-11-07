@@ -10,20 +10,22 @@
 
 ## 🚀 About Me
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center">
 
-  <div>
-    - 🔭 Currently building Meeples-Landing, a site for a school organization<br>
-    - 🌱 I'm currently learning **Angular**, **Node.js**, and **UX Design**<br>
-    - 💡 I love creating user-friendly web applications<br>
-    - 🎯 2025 Goals: Create more hobby projects<br>
+  <div style="display: inline-block; text-align: left; max-width: 400px;">
+    <!-- Text content -->
+    - 🔭 Currently building Meeples-Landing, a site for a school organization  
+    - 🌱 I'm currently learning **Angular**, **Node.js**, and **UX Design**  
+    - 💡 I love creating user-friendly web applications  
+    - 🎯 2025 Goals: Create more hobby projects  
     - 📫 Let’s connect! Email me at: **lucymaetan@gmail.com**
   </div>
 
+  <!-- Image content -->
   <a href="https://app.daily.dev/lucenmae">
     <img src="./devcard.png" width="356" alt="Lucy's Dev Card"/>
   </a>
-  
+
 </div>
 
 
