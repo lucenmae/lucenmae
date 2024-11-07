@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucenmae&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lucenmae&label=Profile%20Views&color=BD1212&style=flat" alt="Profile Views" />
 </div>
 
 ## 🚀 About Me
 
-<table border="0" style="border: none;">
-<tr style="border: none;">
-<td width="70%" style="border: none;">
+<table style="border-collapse: collapse; border: 1px solid #BD1212;">
+<tr>
+<td width="70%" style="border: none; padding: 20px;">
 
 🔭 Currently building Meeples-Landing, a site for a school organization
 
@@ -25,7 +25,7 @@
 📫 Let's connect! Email me at: **lucymaetan@gmail.com**
 
 </td>
-<td width="30%" style="border: none;">
+<td width="30%" style="border: none; padding: 20px;">
 <a href="https://app.daily.dev/lucenmae">
   <img src="./devcard.png" width="250" alt="Lucy's Dev Card"/>
 </a>
