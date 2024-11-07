@@ -98,11 +98,6 @@
   </a>
 </div>
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 🚀 Featured Projects
 
 <div align="center">
