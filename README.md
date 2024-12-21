@@ -1,7 +1,7 @@
 ![header](./images/header.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=BD1212&center=true&vCenter=true&width=500&lines=I+need+sleep+😴;Maybe+just+5+more+minutes+⏰;Code+or+nap...?+🤔;Dreaming+of+coffee+☕💤" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=BD1212&center=true&vCenter=true&width=500&lines=I+need+sleep+😴;Maybe+just+5+more+minutes+⏰;Code+or+nap...?+🤔;Dreaming+of+....+💤" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+## 🌐🌐🌐
 
 <div align="center">
   <h3>Frontend</h3>
@@ -74,7 +74,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/></a>
 </div>
 
-## 📊 Stats
+## 📊📊📊
 
 <div align="center">
   <p>
@@ -84,13 +84,13 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenmae&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff" alt="Top Languages" />
 </div>
 
-## 🏆 Trophies
+## 🏆🏆🏆
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucenmae&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=4&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
 </div>
 
-## 🎵 Currently Vibing To
+## 🎵🎵🎵
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&redirect=true">
@@ -99,7 +99,7 @@
 </div>
 
 
-## 🚀 Featured Projects
+## ⭐⭐⭐
 
 <div align="center">
   <a href="https://github.com/lucenmae/meeples-landing">
