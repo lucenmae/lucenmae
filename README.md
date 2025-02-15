@@ -72,8 +72,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/></a>
 </div>
 
-## Does this matter? IDK. I just love looking at my small improvements
-
+## Does this matter? IDK.
 <div align="center">
   <p>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=lucenmae&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" alt="GitHub Stats" />
