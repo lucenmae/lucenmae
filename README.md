@@ -44,10 +44,10 @@
 </tr>
 </table>
 
-## 🌐🌐🌐
+## Tech Stack
 
 <div align="center">
-  <h3>Frontend</h3>
+  <h3>Tech Stack</h3>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/></a>
@@ -56,8 +56,6 @@
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
-
-  <h3>Backend & Database</h3>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
@@ -74,7 +72,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/></a>
 </div>
 
-## 📊📊📊
+## Does this matter? IDK, I just love looking at my small improvements
 
 <div align="center">
   <p>
@@ -84,13 +82,12 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenmae&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff" alt="Top Languages" />
 </div>
 
-## 🏆🏆🏆
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucenmae&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=4&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
 </div>
 
-## 🎵🎵🎵
+## Who doesn't love music?
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&redirect=true">
@@ -99,7 +96,7 @@
 </div>
 
 
-## ⭐⭐⭐
+## First Hobby Project!
 
 <div align="center">
   <a href="https://github.com/lucenmae/meeples-landing">
