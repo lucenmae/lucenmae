@@ -72,7 +72,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/></a>
 </div>
 
-## Does this matter? IDK, I just love looking at my small improvements
+## Does this matter? IDK. I just love looking at my small improvements
 
 <div align="center">
   <p>
