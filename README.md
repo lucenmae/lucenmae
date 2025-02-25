@@ -76,20 +76,11 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=lucenmae&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" alt="GitHub Stats" />
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=lucenmae&theme=dark&hide_border=true&background=0D1117&ring=BD1212&fire=BD1212&currStreakLabel=BD1212" alt="GitHub Streak" />
   </p>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenmae&theme=dark&hide_border=true&bg_color=0D1117&title_color=BD1212&text_color=ffffff" alt="Top Languages" />
 </div>
 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucenmae&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=4&bg_color=0D1117&title_color=BD1212&text_color=ffffff&icon_color=BD1212" />
-</div>
-
-## Who doesn't love music?
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6kxfdishsvs4dtnhjdhdwlmnq&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=BD1212&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
 </div>
 
 
