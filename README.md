@@ -1,7 +1,9 @@
 ![header](./images/blue-evolve-header.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=042eb2&center=true&vCenter=true&width=500&lines=I+need+sleep+😴;Maybe+just+5+more+minutes+⏰;Code+or+nap...?+🤔;Dreaming+of+....+💤" alt="Typing SVG" />
+  <h2 style="font-family: 'Fira Code', monospace; font-weight: 600; font-size: 28px; color: #042eb2;">
+     sleep is important💤
+  </h2>
 </div>
 
 <div align="center">
