@@ -1,10 +1,11 @@
 ![header](./images/blue-evolve-header.png)
 
 <div align="center">
-  <h2 style="font-family: 'Fira Code', monospace; font-weight: 600; font-size: 28px; color: #042eb2;">
-     sleep is important💤
+  <h2>
+     <code>sleep is important</code>💤
   </h2>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lucenmae&label=Profile%20Views&color=042eb2&style=flat" alt="Profile Views" />
