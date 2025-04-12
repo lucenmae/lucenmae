@@ -1,4 +1,4 @@
-![header](./images/header.png)
+![header](./images/blue-header.png)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=BD1212&center=true&vCenter=true&width=500&lines=I+need+sleep+😴;Maybe+just+5+more+minutes+⏰;Code+or+nap...?+🤔;Dreaming+of+....+💤" alt="Typing SVG" />
