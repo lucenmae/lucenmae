@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>
-     <code>sleep is important</code>💤
+     <code>I am the master of my fate, I am the captain of my soul</code>
   </h2>
 </div>
 
