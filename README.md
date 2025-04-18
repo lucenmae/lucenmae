@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>
-     <code>I am the master of my fate, I am the captain of my soul</code>
+     <code>don't tie your identity to a specific technology or a set of practices</code>
   </h2>
 </div>
 
