@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>
-     <code>don't tie your identity to a specific technology or a set of practices</code>
+     <code>stay curious</code>
   </h2>
 </div>
 
